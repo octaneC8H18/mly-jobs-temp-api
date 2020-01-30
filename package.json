@@ -1,0 +1,7 @@
+{
+  "name": "jobs",
+  "dependencies": {
+    "aws-sdk": "^2.610.0",
+    "uuid": "^3.4.0"
+  }
+}
